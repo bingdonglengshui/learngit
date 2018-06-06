@@ -1,0 +1,13 @@
+cd 
+ls
+puts 上传文件
+gets 下载文件
+remove 删除文件或目录
+pwd  查看当前路径
+mkdir 创建文件夹
+useradd 注册用户
+login   登录
+exit     退出
+server /ip  /port  /pthreadnum /maxnum
+client /ip /port
+功能 断点下载 秒传
